@@ -12,7 +12,7 @@ import FAQPage from './pages/FAQ';
 import PipelinePage from './pages/Pipeline';
 import PipelineDeveloperPage from './pages/PipelineDeveloper';
 import MarketingPage from './pages/Marketing';
-import WhatsAppPage from './pages/WhatsApp';
+import WhatsAppPage from './pages/Whatsapp';
 import BankPage from './pages/Bank';
 import icons from './config/icons';
 
