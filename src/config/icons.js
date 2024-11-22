@@ -9,7 +9,7 @@ import marketingIcon from '../assets/icons/Marketing-tools.png';
 import pipelineIcon from '../assets/icons/Pipeline.png';
 import productIcon from '../assets/icons/Product.png';
 import whatsappIcon from '../assets/icons/WhatsApp.png';
-import AvatarIcon from '../assets/icons/Avatar.png';
+import AvatarIcon from '../assets/icons/avatar.png';
 import EmailIcon from '../assets/icons/email.png';
 import RoleIcon from '../assets/icons/role.png';
 import PhoneIcon from '../assets/icons/phone.png';
