@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Alamat from '@/components/contact/step/Alamat';
-import UploadDokumen from '@/components/contact/step/UploadDokumen';
+import Alamat from '@/components/Contact/Step/Alamat';
+import UploadDokumen from '@/components/Contact/Step/UploadDokumen';
 import ProgressBar from '@/components/Contact/ProgressBar';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 
